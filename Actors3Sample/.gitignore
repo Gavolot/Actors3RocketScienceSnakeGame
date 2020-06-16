@@ -29,6 +29,7 @@ ExportedObj/
 *.VC.db
 *.DotSettings
 *.config
+*.vscode
 
 
 # Unity3D generated meta files
